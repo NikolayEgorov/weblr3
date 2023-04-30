@@ -68,6 +68,10 @@ section#leader>.container>img {
     width: 300px;
     height: 400px;
 }
+section#leader>.container>img.big {
+    width: 900px;
+    height: 1200px;
+}
 section#leader>.container>.h {
     text-align: center;
 }
